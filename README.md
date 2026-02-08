@@ -1,5 +1,5 @@
 👋 Hi, I’m @chuaml
-Technical Consultant who is experience in C# and .NET software development.
+a tech solution architect.
 
 <!---
 chuaml/chuaml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
